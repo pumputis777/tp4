@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main() //me ayuda bastante mi papa
 {
    const int MAX = 50;
    char nombres[20] [MAX];
